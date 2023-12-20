@@ -1,7 +1,3 @@
-Nama : Meyroja Jovancha Firoos
-NRP  : 5025211204
-Kelompok : E30
-
 
 # Modul 5
 ## Penjelasan
